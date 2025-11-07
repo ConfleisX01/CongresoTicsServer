@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "f57f",
+      "name": "Juan Pablo",
+      "lastName": "Perez Fernandez",
+      "email": "confleis@gmail.com",
+      "twitter": "Confleis",
+      "job": "Desarrollador",
+      "avatar": "https://img.daisyui.com/images/profile/demo/yellingcat@192.webp"
+    },
+    {
+      "id": "884c",
+      "name": "Luis Antonio",
+      "lastName": "Cordova Leso",
+      "email": "Trokers@gmail.com",
+      "twitter": "Trokers",
+      "job": "Desarrollador",
+      "avatar": "https://img.daisyui.com/images/profile/demo/superperson@192.webp"
+    },
+    {
+      "id": "b2a7",
+      "name": "Ana Karina",
+      "lastName": "Perez Fernandez",
+      "email": "Choka@gmail.com",
+      "twitter": "Chokas",
+      "job": "Logistica y Transporte",
+      "avatar": "https://img.daisyui.com/images/profile/demo/distracted1@192.webp"
+    }
+  ]
+}
